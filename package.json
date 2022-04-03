@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /event-booster/"
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html --public-url /event-booster/"
   },
   "repository": {
     "type": "git",
