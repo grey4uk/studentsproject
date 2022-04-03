@@ -1,4 +1,4 @@
-import './sass/main.scss';
+// import './sass/main.scss';
 import fetchApiGet from './fetchApiGet';
 import fetchNewEvents from './newArrayAndGetModal';
 import code from './countries.json';
